@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mikebeller.github.io/about/</loc>
+    <lastmod>2019-11-16T08:39:57-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikebeller.github.io/posts/</loc>
+    <lastmod>2019-11-16T08:36:14-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mikebeller.github.io/posts/my-first-post/</loc>
     <lastmod>2019-11-16T06:46:11-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -11,13 +25,6 @@
   
   <url>
     <loc>https://mikebeller.github.io/</loc>
-    <lastmod>2019-11-16T06:46:11-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mikebeller.github.io/posts/</loc>
     <lastmod>2019-11-16T06:46:11-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
