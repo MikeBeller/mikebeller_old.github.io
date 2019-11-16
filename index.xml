@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Beller&#39;s Site</title>
+    <link>https://mikebeller.github.io/</link>
+    <description>Recent content on Mike Beller&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2019 06:46:11 -0500</lastBuildDate>
+    
+	<atom:link href="https://mikebeller.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Japan!</title>
+      <link>https://mikebeller.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 16 Nov 2019 06:46:11 -0500</pubDate>
+      
+      <guid>https://mikebeller.github.io/posts/my-first-post/</guid>
+      <description>Our Awesome 30th Anniversary Trip to Japan This is my first post on my blog.</description>
+    </item>
+    
+  </channel>
+</rss>
